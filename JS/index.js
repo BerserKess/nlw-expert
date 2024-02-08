@@ -17,7 +17,7 @@ const questions = [
 			"Qual é o nome do fantasma que assombra o banheiro feminino da Escola de Magia e Bruxaria de Hogwarts?",
 
 		answers: ["Nick Quase Sem Cabeça", "Murta Que Geme", "Fred Weasley"],
-		correct: 0
+		correct: 1
 	},
 	{
 		question:
