@@ -1,0 +1,68 @@
+/* Reset CSS */
+
+/* Box sizing reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Margin and padding reset */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+blockquote,
+dl,
+dd {
+    margin: 0;
+    padding: 0;
+}
+
+/* Typography reset */
+body,
+button,
+input,
+select,
+textarea {
+    font-family: Arial, sans-serif;
+}
+
+/* List reset */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Link reset */
+a {
+    text-decoration: none;
+}
+
+/* Remove default outline on focus */
+*:focus {
+    outline: none;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block;
+}

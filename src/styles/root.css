@@ -1,0 +1,17 @@
+:root{
+    --poppins-font: 'Poppins', sans-serif;
+    --sixty-font: 'Sixtyfour', sans-serif;
+    --bg-color: #282a36;
+    --green-color: #50fa7b;
+    --text-color: #f1f5f9;
+    --border-color:#bd93f9;
+
+}
+
+*,:root{
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+}
